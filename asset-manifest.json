@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/axios-fetch-posts-glassmorphism/static/css/main.00f256f4.chunk.css",
+    "main.js": "/axios-fetch-posts-glassmorphism/static/js/main.3082b645.chunk.js",
+    "main.js.map": "/axios-fetch-posts-glassmorphism/static/js/main.3082b645.chunk.js.map",
+    "runtime-main.js": "/axios-fetch-posts-glassmorphism/static/js/runtime-main.cb09160f.js",
+    "runtime-main.js.map": "/axios-fetch-posts-glassmorphism/static/js/runtime-main.cb09160f.js.map",
+    "static/js/2.7c236431.chunk.js": "/axios-fetch-posts-glassmorphism/static/js/2.7c236431.chunk.js",
+    "static/js/2.7c236431.chunk.js.map": "/axios-fetch-posts-glassmorphism/static/js/2.7c236431.chunk.js.map",
+    "index.html": "/axios-fetch-posts-glassmorphism/index.html",
+    "static/css/main.00f256f4.chunk.css.map": "/axios-fetch-posts-glassmorphism/static/css/main.00f256f4.chunk.css.map",
+    "static/js/2.7c236431.chunk.js.LICENSE.txt": "/axios-fetch-posts-glassmorphism/static/js/2.7c236431.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb09160f.js",
+    "static/js/2.7c236431.chunk.js",
+    "static/css/main.00f256f4.chunk.css",
+    "static/js/main.3082b645.chunk.js"
+  ]
+}
