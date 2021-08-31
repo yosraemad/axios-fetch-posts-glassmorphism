@@ -1,0 +1,11 @@
+.cards {
+  margin-top: auto;
+  margin-left: 5rem;
+  margin-right: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  list-style-type: none;
+}

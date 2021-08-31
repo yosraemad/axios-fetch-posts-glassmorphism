@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.background {
+  min-height: 100vh;
+  background: linear-gradient(to right top, #f1a7f1, #fad0c4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.circle-one {
+  background: white;
+  background: linear-gradient(
+    to right bottom,
+    rgba(116, 116, 191, 0.6),
+    rgba(52, 138, 199, 0.3)
+  );
+  min-height: 20rem;
+  min-width: 20rem;
+  position: absolute;
+  border-radius: 50%;
+  z-index: 1;
+  top: 5%;
+  right: 15%;
+}
+
+.circle-two {
+  background: white;
+  background: linear-gradient(
+    to right bottom,
+    rgba(237, 66, 100, 0.6),
+    rgba(255, 237, 188, 0.3)
+  );
+  min-height: 20rem;
+  min-width: 20rem;
+  position: absolute;
+  border-radius: 50%;
+  z-index: 1;
+  bottom: 10%;
+  left: 17%;
+}

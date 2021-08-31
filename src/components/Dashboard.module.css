@@ -1,0 +1,29 @@
+.glass {
+  position: absolute;
+  height: 90vh;
+  width: 60%;
+  background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.6),
+    rgba(255, 255, 255, 0.3)
+  );
+  border-radius: 20px;
+  z-index: 2;
+  backdrop-filter: blur(2rem);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow-y: scroll;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+  background: transparent;
+}
+
+@media screen and (max-width: 660px) {
+  .glass {
+    height: 100vh;
+    min-width: 100%;
+  }
+}
